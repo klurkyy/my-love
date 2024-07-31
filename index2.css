@@ -1,0 +1,12 @@
+.buttons{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  body {
+    background-image: url('page2.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}

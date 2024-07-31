@@ -1,0 +1,18 @@
+.buttons{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  body {
+    background-image: url('page3.jpeg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.text3{
+    font-family: "Brush Script MT", cursive;
+
+}
